@@ -1,24 +1,39 @@
 {
-    "name": "pwsnippets",
-    "displayName": "ProcessWire Snippets",
-    "description": "Snippets for rapid PHP Development with the ProcessWire CMS/CMF",
-    "version": "0.0.1",
-    "publisher": "baumrock",
-    "icon": "icon.png",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/BernhardBaumrock/pwsnippets.git"
-    },
-    "engines": {
-        "vscode": "^1.43.0"
-    },
-    "categories": [
-        "Snippets"
-    ],
-    "contributes": {
-        "snippets": [
-            {"language": "php", "path": "./snippets/php.json"},
-            {"language": "html", "path": "./snippets/html.json"}
-        ]
-    }
+	"name": "pwsnippets",
+	"displayName": "ProcessWire Snippets",
+	"description": "Snippets for rapid PHP Development with the ProcessWire CMS/CMF",
+	"version": "0.0.1",
+	"publisher": "baumrock",
+	"icon": "icon.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/BernhardBaumrock/pwsnippets.git"
+	},
+	"engines": {
+		"vscode": "^1.43.0"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "php",
+				"path": "./snippets/php.json"
+			},
+			{
+				"language": "php",
+				"path": "./snippets/general.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/html.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "9135f848-aa41-474e-994e-f4930892d7dd",
+		"publisherDisplayName": "Bernhard Baumrock",
+		"publisherId": "677edf71-08fe-42cb-a8f5-f6c4118bbaf3"
+	}
 }
