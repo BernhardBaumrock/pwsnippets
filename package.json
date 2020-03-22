@@ -1,0 +1,24 @@
+{
+    "name": "pwsnippets",
+    "displayName": "ProcessWire Snippets",
+    "description": "Snippets for rapid PHP Development with the ProcessWire CMS/CMF",
+    "version": "0.0.1",
+    "publisher": "baumrock",
+    "icon": "icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/BernhardBaumrock/pwsnippets.git"
+    },
+    "engines": {
+        "vscode": "^1.43.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {"language": "php", "path": "./snippets/php.json"},
+            {"language": "html", "path": "./snippets/html.json"}
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+  "pw-namespace": {
+    "prefix": "pw",
+    "body": [
+      "<?php namespace ProcessWire;",
+      ""
+    ],
+    "description": "Add ProcessWire Namespace"
+  }
+}
