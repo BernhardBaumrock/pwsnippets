@@ -65,7 +65,7 @@ cd C:\Users\foo\.vscode\extensions\
 
 Fork this Repo into your Github account and clone it into the extensions folder:
 ```
-git clone git@github.com:yourGitAccount/pwsnippets.git .
+git clone git@github.com:yourGitAccount/pwsnippets.git
 ```
 
 Create a test-file and check that the extension works:
