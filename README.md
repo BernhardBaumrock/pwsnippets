@@ -20,6 +20,10 @@ I'm using the `Intelephense` extension for Code Intellisense in PHP in the examp
 
 ![img](https://i.imgur.com/hQ9m9mQ.gif)
 
+### pwinputfield: Add Inputfield Boilerplate
+
+![img](https://i.imgur.com/vjpI48U.gif)
+
 ### pwfieldtype: Add Fieltype Boilerplate
 
 ![img](https://i.imgur.com/g1iMIbz.gif)

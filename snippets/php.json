@@ -45,7 +45,7 @@
     "prefix": "pwinputfield",
     "body": [
       "${0:// info snippet}",
-      "class Inputfield${1:Foo} extends ${2:Inputfieldtextarea} {",
+      "class Inputfield${1:Foo} extends Inputfield${2:Textarea} {",
       "",
       "  public static function getModuleInfo() {",
       "    return [",

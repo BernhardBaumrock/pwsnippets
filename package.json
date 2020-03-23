@@ -2,7 +2,7 @@
 	"name": "pwsnippets",
 	"displayName": "ProcessWire Snippets",
 	"description": "Snippets for rapid PHP Development with the ProcessWire CMS/CMF",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"publisher": "baumrock",
 	"icon": "icon.png",
 	"repository": {
