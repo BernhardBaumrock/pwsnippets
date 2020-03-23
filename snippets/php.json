@@ -70,7 +70,7 @@
       "  * Process the Inputfield's input",
       "  * @return \\$this",
       "  */",
-      "  public function ___processInput() {",
+      "  public function ___processInput($input) {",
       "    \\$this->message('process input!');",
       "    return false;",
       "  }",
