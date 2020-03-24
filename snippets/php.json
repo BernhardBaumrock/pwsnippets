@@ -83,7 +83,7 @@
     "prefix": "pwfieldtype",
     "body": [
       "${0:// info snippet}",
-      "class ${1:Classname} extends Fieldtype${2:TextLanguage} {",
+      "class Fieldtype${1:Classname} extends Fieldtype${2:TextLanguage} {",
       "",
       "  public static function getModuleInfo() {",
       "    return [",
