@@ -60,7 +60,9 @@ I'm using the `Intelephense` extension for Code Intellisense in PHP in the examp
 
 ## Contributing
 
-Go to your VSCode Extensions folder
+**First, create your snippet in your users folder to test it! [See docs](https://code.visualstudio.com/docs/editor/userdefinedsnippets)**
+
+When it works, go to your VSCode Extensions folder
 ```
 cd C:\Users\foo\.vscode\extensions\
 ```
