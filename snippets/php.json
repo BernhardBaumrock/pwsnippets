@@ -70,7 +70,7 @@
       "  * Process the Inputfield's input",
       "  * @return \\$this",
       "  */",
-      "  public function ___processInput($input) {",
+      "  public function ___processInput(\\$input) {",
       "    \\$this->message('process input!');",
       "    return false;",
       "  }",
@@ -83,7 +83,7 @@
     "prefix": "pwfieldtype",
     "body": [
       "${0:// info snippet}",
-      "class ${1:Classname} extends ${2:FieldtypeTextLanguage} {",
+      "class ${1:Classname} extends Fieldtype${2:TextLanguage} {",
       "",
       "  public static function getModuleInfo() {",
       "    return [",
