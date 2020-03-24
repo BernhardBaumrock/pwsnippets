@@ -2,6 +2,8 @@
 
 Snippets for rapid PHP Development with the ProcessWire CMS/CMF
 
+VSCode Marketplace: https://marketplace.visualstudio.com/items?itemName=baumrock.pwsnippets
+
 ## Features
 
 **Please see section `Contributing` how you can add features!**
