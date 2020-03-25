@@ -1,4 +1,12 @@
 {
+  "pwire": {
+    "prefix": "pwire",
+    "body": [
+      "\\$$1 = \\$this->wire('$1'); /** @var $2 \\$$1 */$0"
+    ],
+    "description": "Get wired object"
+  },
+
   "pw-mod": {
     "prefix": "pwmod",
     "body": [
@@ -275,7 +283,7 @@
       "\\$admin = \\$users->get(41);",
       "\\$admin->setAndSave('pass', '$1');",
       "\\$admin->setAndSave('name', '$2');",
-      "die(\"admin url = {\\$pages->get(2)->httpUrl}, admin username = {\\$admin->name}\");",
+      "die(\"admin url = {\\$pages->get(2)->httpUrl}, admin username = {\\$admin->name}\");"
     ],
     "description": "Reset Admin Password"
   }
