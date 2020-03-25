@@ -1,9 +1,7 @@
 {
   "pwire": {
     "prefix": "pwire",
-    "body": [
-      "\\$$1 = \\$this->wire('$1'); /** @var $2 \\$$1 */$0"
-    ],
+    "body": "\\$${1:pages} = \\$this->wire('$1'); /** @var ${1/(.)/${1:/upcase}/} \\$$1 */",
     "description": "Get wired object"
   },
 

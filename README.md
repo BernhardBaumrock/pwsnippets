@@ -16,7 +16,7 @@ I'm using the `Intelephense` extension for Code Intellisense in PHP in the examp
 
 ### pwire: Add wired object
 
-![img](https://i.imgur.com/DBpVpr7.gif)
+![img](https://i.imgur.com/IpqqU4a.gif)
 
 ### pwmod: Get ProcessWire Module
 
