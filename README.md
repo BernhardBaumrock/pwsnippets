@@ -22,6 +22,14 @@ I'm using the `Intelephense` extension for Code Intellisense in PHP in the examp
 
 ![img](https://i.imgur.com/wVaGBnt.gif)
 
+### pwhookargument: Get hook argument
+
+![img](https://i.imgur.com/3T3SC50.gif)
+
+### pwhookobject: Get hook object
+
+![img](https://i.imgur.com/h28Vt6E.gif)
+
 ### pwmod: Get ProcessWire Module
 
 ![img](https://i.imgur.com/oKSjntZ.gif)

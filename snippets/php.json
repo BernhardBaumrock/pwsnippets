@@ -9,6 +9,17 @@
     "body": "\\$${1:data} = \\$this->wire(new ${2:WireData}()); /** @var $2 \\$$1 */",
     "description": "Wire new instance of a Class"
   },
+  
+  "pw-hook-argument": {
+    "prefix": "pwhookargument",
+    "body": ["\\$${1:page} = \\$event->arguments(${2:0}); /** @var $3 $$1 */"],
+    "description": "Get HookEvent argument"
+  },
+  "pw-hook-object": {
+    "prefix": "pwhookobject",
+    "body": ["\\$${1:page} = \\$event->object; /** @var $2 $$1 */"],
+    "description": "Get HookEvent object"
+  },
 
   "pw-mod": {
     "prefix": "pwmod",
