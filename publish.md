@@ -1,6 +1,10 @@
 https://code.visualstudio.com/api/working-with-extensions/publishing-extension
 
-**Update version number!**
+
+Steps before packaging:
+
+**Update version number**
+**Update readme**
 
 ```
 vsce package

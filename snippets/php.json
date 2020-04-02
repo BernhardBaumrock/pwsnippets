@@ -4,6 +4,11 @@
     "body": "\\$${1:pages} = \\$this->wire('$1'); /** @var ${1/(.)/${1:/upcase}/} \\$$1 */",
     "description": "Get wired object"
   },
+  "pwnew": {
+    "prefix": "pwnew",
+    "body": "\\$${1:data} = \\$this->wire(new ${2:WireData}()); /** @var $2 \\$$1 */",
+    "description": "Wire new instance of a Class"
+  },
 
   "pw-mod": {
     "prefix": "pwmod",

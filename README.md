@@ -18,6 +18,10 @@ I'm using the `Intelephense` extension for Code Intellisense in PHP in the examp
 
 ![img](https://i.imgur.com/IpqqU4a.gif)
 
+### pwnew: Wire new instance of a Class
+
+![img](https://i.imgur.com/wVaGBnt.gif)
+
 ### pwmod: Get ProcessWire Module
 
 ![img](https://i.imgur.com/oKSjntZ.gif)
