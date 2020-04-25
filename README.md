@@ -38,6 +38,10 @@ I'm using the `Intelephense` extension for Code Intellisense in PHP in the examp
 
 ![img](https://i.imgur.com/hQ9m9mQ.gif)
 
+### pwtextformatter: PW Textformatter Boilerplate
+
+![img](https://i.imgur.com/oxW2OOz.gif)
+
 ### pwinputfield: Add Inputfield Boilerplate
 
 ![img](https://i.imgur.com/vjpI48U.gif)
